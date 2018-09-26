@@ -1,0 +1,11 @@
+	Liczby pierwsze
+
+<Wejscie>
+
+	W pierwszej linii standardowego wejscia prosze podac liczbe oznaczajaca ilosc przypadkow do rozpatrzenia. Nastepnie w kolejnych liniach prosze podac
+liczby do rozpatrzenia.
+
+<Wyjscie>
+
+	Na standardowym wyjsciu, w przypadku gdy podana liczba jest liczba
+pierwsza, wyswietlane jest slowo TAK, w przciwnym wypadku slowo NIE.

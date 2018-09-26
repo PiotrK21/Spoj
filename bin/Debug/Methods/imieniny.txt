@@ -1,0 +1,11 @@
+	Imieniny
+
+<Wejscie>
+
+	W pierwszej linii standardowego wejscia prosze podac liczbe oznaczajaca ilosc przypadkow do rozpatrzenia. Nastepnie w jednej linii prosze podac liczbe
+cukierkow jaka Jas dostal na urodziny oraz liczebnosc klasy Jasia.
+
+<Wyjscie>
+
+	Na standardowym wyjsciu wyswietlane jest slowo TAK jesli dla Jasia
+zostana cukierki po rozdaniu kazdemu z klasy takiej samej ilosci, lub slowo NIE w przeciwnym przypadku.

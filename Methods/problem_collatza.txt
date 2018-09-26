@@ -1,0 +1,13 @@
+	Problem Collatza
+
+<Wejscie>
+
+	W pierwszej linii standardowego wejscia prosze podac liczbe oznaczajaca ilosc przypadkow do rozpatrzenia. Nastepnie prosze podac liczbe dla ktorej
+program obliczy pierwsze takie n dla ktorego xn=1, przy nastepujacych warunkach:
+
+	x0=s
+	x(n+1)=3*xn+1 dla xn parzystych
+	x(n+1)=xn/2 dla xn nieparzystych
+
+<Wyjscie>
+	Na standardowym wyjsciu podawana liczba n.

@@ -1,0 +1,12 @@
+	Dwumiany
+
+<Wejscie>
+
+	W pierwszej linii standardowego wejscia prosze podac liczbe oznaczajaca ilosc przypadkow do rozpatrzenia. Nastepnie w jednej linii prosze podac liczbe
+oznaczajaca wielkosc zbioru n dla ktorego zostanie okreslona ilosc roznych
+podzbiorow o wielkosci k.
+
+<Wyjscie>
+
+	Na standardowym wyjsciu wyswietlana jest liczba roznych podzbiorow k
+elementowych zawartych w zbiorze n elementowym.

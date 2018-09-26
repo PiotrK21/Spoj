@@ -1,0 +1,11 @@
+	Dwie cyfry silni
+
+<Wejscie>
+
+	W pierwszej linii standardowego wejscia prosze podac liczbe oznaczajaca ilosc przypadkow do rozpatrzenia. W kolejnych liniach prosze podac liczby do
+rozpatrzenia.
+
+<Wyjscie>
+
+	Na standardowym wyjsciu wyswietlane sa w jednej linii diwe cyfry
+oddzielone spacja oznaczajace kolejno liczbe dziesiatek i jednosci.

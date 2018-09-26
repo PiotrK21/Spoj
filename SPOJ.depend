@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1537987487 source:d:\programowanie\spoj\spoj\main.cpp
+	<iostream>
+	<conio.h>
+	"zadania.h"
+
+1537822472 source:d:\programowanie\spoj\spoj\collatz.cpp
+	<iostream>
+	"zadania.h"
+
+1537470614 d:\programowanie\spoj\spoj\collatz.h
+
+1537470414 d:\programowanie\spoj\spoj\collatz.cpp
+	<iostream>
+	"collatz.h"
+
+1537984461 d:\programowanie\spoj\spoj\zadania.h
+
+1537481220 source:d:\programowanie\spoj\spoj\potegowanie.cpp
+	<iostream>
+	<math.h>
+	<string>
+	"zadania.h"
+
+1537901257 source:d:\programowanie\spoj\spoj\czy_umiesz_potegowac.cpp
+	<iostream>
+	<math.h>
+	<string>
+	"zadania.h"
+
+1537900854 source:d:\programowanie\spoj\spoj\problem_collatza.cpp
+	<iostream>
+	"zadania.h"
+
+1537908944 source:d:\programowanie\spoj\spoj\methods\czy_umiesz_potegowac.cpp
+	<iostream>
+	<math.h>
+	<string>
+	"zadania.h"
+
+1537984754 d:\programowanie\spoj\spoj\methods\zadania.h
+
+1537901557 source:d:\programowanie\spoj\spoj\methods\dwie_cyfry_silni.cpp
+	<iostream>
+	<string>
+	"zadania.h"
+
+1537902105 source:d:\programowanie\spoj\spoj\methods\liczby_pierwsze.cpp
+	<iostream>
+	<math.h>
+	"zadania.h"
+
+1537900854 source:d:\programowanie\spoj\spoj\methods\problem_collatza.cpp
+	<iostream>
+	"zadania.h"
+
+1537989241 source:d:\programowanie\spoj\spoj\methods\dwumiany.cpp
+	<iostream>
+	"zadania.h"
+
+1537903709 source:d:\programowanie\spoj\spoj\methods\imieniny.cpp
+	<iostream>
+	"zadania.h"
+
+1537906890 source:d:\programowanie\spoj\spoj\zadania.h
+
+1537906497 source:d:\programowanie\spoj\spoj\menu\menu.cpp
+	<iostream>
+	"zadania.h"
+
+1537906320 d:\programowanie\spoj\spoj\menu\zadania.h
+
+1537906320 source:d:\programowanie\spoj\spoj\menu\zadania.h
+
+1537907169 source:d:\programowanie\spoj\spoj\menu\ui.h
+
+1537989683 source:d:\programowanie\spoj\spoj\methods\wybor.cpp
+	<iostream>
+	<fstream>
+	"zadania.h"
+

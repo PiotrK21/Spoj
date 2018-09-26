@@ -1,0 +1,11 @@
+	Czy umiesz potegowac
+
+<Wejscie>
+
+	W pierwszej linii standardowego wejscia prosze podac liczbe oznaczajaca ilosc przypadkow do rozpatrzenia. Nastepnie w kolejnych liniach prosze podac
+dwie liczby naturalne a i b oddzielone od siebie spacja.
+
+<Wyjscie>
+
+	Na standardowym wyjsciu wyswietlana jest cyfra jednosci dla kazdego
+rozpatrywanego przypadku.
